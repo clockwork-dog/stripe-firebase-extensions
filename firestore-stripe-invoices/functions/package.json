@@ -1,7 +1,7 @@
 {
   "name": "firestore-stripe-invoices",
-   "engines": {
-    "node": "16"
+  "engines": {
+    "node": "22"
   },
   "main": "lib/index.js",
   "scripts": {
